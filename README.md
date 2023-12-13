@@ -9,7 +9,7 @@
 # 免费节点及订阅地址： 
 
 
->🚀免费clash&v2ray节点: https://nodeshares.net/p/709
+>🚀免费clash&v2ray节点: https://nodeshares.net/p/718
 
 
 # 相关工具教程：
